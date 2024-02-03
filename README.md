@@ -1,1 +1,1 @@
-# indicgenai.github.io
+# Indian Gen AI Project
